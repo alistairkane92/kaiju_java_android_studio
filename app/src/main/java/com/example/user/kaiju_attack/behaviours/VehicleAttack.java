@@ -7,7 +7,5 @@ import com.example.user.kaiju_attack.Kaiju;
  */
 
 public interface VehicleAttack {
-
-    int littleGunValue;
-    int bigGunValue;
+    
 }
